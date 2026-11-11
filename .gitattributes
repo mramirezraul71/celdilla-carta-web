@@ -1,0 +1,2 @@
+cartas/*.json -text
+*.json -text
