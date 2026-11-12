@@ -10,7 +10,8 @@ Qué hay:
   - un `AAAA-MM-DD.json` por cada carta.
 
   Solo entran cartas con su aprobación y la revisión de GPT sobre su huella exacta. Las genera `herramientas/datos.py` en el repositorio de la app; aquí no se editan a mano.
-- `index.html`: una portada sencilla.
+- `cartas/pt/` y `cartas/fr/`: las cartas traducidas, con la misma forma. Llevan el PASS de tres familias (D-206). El inglés no está: `IDIOMAS.md` lo deja fuera de la web hasta el permiso de Cambridge (D-208).
+- `index.html`: una portada sencilla, con los créditos de las Biblias de las cartas.
 
 Qué no hay:
 - datos de personas;
